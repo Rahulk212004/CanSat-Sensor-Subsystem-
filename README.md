@@ -153,7 +153,7 @@ It performs **telemetry**, **data logging**, **sensor fusion**, and **power mana
 <h2 align="center">🏆 Achievements</h2>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=25&color=FFD700&center=true&vCenter=true&width=850&height=70&duration=5000&lines=🏅+Awarded+Best+Design+Award+🏅; Recognized+for+Best+Telemetry+and+GPS+Data" />
+   <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=25&color=FFD700&center=true&vCenter=true&width=850&height=70&duration=5000&lines=🏅+Awarded+Best+Design+Award+🏅;Recognized+for+Best+Telemetry+and+GPS+Data" />
 </h3>
 
 <h3 align="center">
