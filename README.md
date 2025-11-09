@@ -166,11 +166,11 @@ It performs **telemetry**, **data logging**, **sensor fusion**, and **power mana
 
 **Avionics Team — PSIT Vyomnauts**
 
-- Arya Mishra (#https://www.linkedin.com/in/arya-mishra-43307525a)
-- Rahul Kumar  
-- Riya Verma  
-- Lavitra Sahu  
-- Shikha  
+- Arya Mishra (https://www.linkedin.com/in/arya-mishra-43307525a)
+- Rahul Kumar (https://www.linkedin.com/in/rahul-kumar-rk212004)
+- Riya Verma (https://www.linkedin.com/in/riya-verma-641230317)
+- Lavitra Sahu (http://techarcanist.com)
+- Shikha (https://www.linkedin.com/in/shikha2006)
 
 ---
 
