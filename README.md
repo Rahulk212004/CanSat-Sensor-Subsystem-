@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=36&color=00C4FF&center=true&vCenter=true&width=900&height=100&duration=4500&lines=CanSat+Avionics+and+Sensor+Subsystem" />
 </h1>
 
-<h3 align="center"> <b>Avionics Team</b> | <b>IN-SPACe CanSat Avionics</b></h3>
+<h3 align="center"> <b>Avionics Team</b> | <b>PSIT Vyomnauts</b></h3>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8d160b36-acae-44d0-b3cd-ac17c9cdaa77" width="350" alt="CanSat PCB"/>
@@ -164,7 +164,7 @@ It performs **telemetry**, **data logging**, **sensor fusion**, and **power mana
 
 ## 👨‍🚀 Developed By
 
-**Avionics Team — IN-SPACe CanSat 2024–25**
+**Avionics Team — PSIT Vyomnauts**
 
 - Arya Mishra  
 - Rahul Kumar  
