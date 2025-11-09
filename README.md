@@ -1,4 +1,4 @@
-<!-- MAIN TITLE -->
+w<!-- MAIN TITLE -->
 <h1 align="center">
    <b>IN-SPACe CanSat 2024–25</b> 🛰️
 </h1>
@@ -11,7 +11,8 @@
 <h3 align="center"> <b>Avionics Team</b> | <b>PSIT Vyomnauts</b></h3>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8d160b36-acae-44d0-b3cd-ac17c9cdaa77" width="350" alt="CanSat PCB"/>
+   <img  src="https://github.com/user-attachments/assets/2d564ac2-3b20-4c82-86b1-93bd8f7b8ebf" width="525">
+  <img src="https://github.com/user-attachments/assets/8d160b36-acae-44d0-b3cd-ac17c9cdaa77" width="300" alt="CanSat PCB"/>
 </p>
 
 <p align="center">
@@ -36,6 +37,7 @@ It performs **telemetry**, **data logging**, **sensor fusion**, and **power mana
 | Component | Function |
 |------------|-----------|
 | **Raspberry Pi Pico 2** | Main flight controller |
+| **Arduino Nano 33 BLE Sense REV 2** | Secondary flight controller |
 | **BMP390** | Altitude / Pressure / Temperature |
 | **BNO085** | IMU – Orientation and motion |
 | **INA219** | Power / Current / Voltage monitoring |
